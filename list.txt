@@ -1,0 +1,20 @@
+C/C++
+ms-vscode
+
+Clang-Format
+xaver
+
+Doxygen Documentation Generator
+cschlosser
+
+File Utils
+sleistner
+
+Increment Selection
+albymor
+
+NumberMonger
+softwareape
+
+PermuteLines
+earshinov

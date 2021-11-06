@@ -1,9 +1,6 @@
 C/C++
 ms-vscode
 
-Clang-Format
-xaver
-
 Doxygen Documentation Generator
 cschlosser
 

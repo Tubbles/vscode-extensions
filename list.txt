@@ -3,15 +3,3 @@ ms-vscode
 
 Doxygen Documentation Generator
 cschlosser
-
-File Utils
-sleistner
-
-Increment Selection
-albymor
-
-NumberMonger
-softwareape
-
-PermuteLines
-earshinov
